@@ -1,0 +1,19 @@
+canvas {
+	display: block;
+    background: lightblue;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
+
+.game {
+	display: flex;
+	justify-content: center;
+}
+
+#snakeMenu {
+	width: 120px;
+	height: 200px;
+	background: yellow;
+	text-align: center;
+
+}
