@@ -1,0 +1,58 @@
+		#pole
+		{
+			background-color: #4b6da3;
+			width: 1100px;
+			height: 900px;
+			margin-right: auto;
+			margin-left: 10%;
+			margin-top: 20px;
+			float:left;
+		}
+
+		.rand
+		{
+			background-color: white;
+			width: 100px;
+			height: 100px;
+			position:relative;
+			color: white;
+			border: 2px solid green;
+			border-radius: 150px;
+			cursor: pointer;
+			display: none;
+		}
+
+		#menu
+		{
+			background-color: gray;
+			width: 300px;
+			height: 300px;
+			float:left;
+			margin-top: 20px;
+			margin-left: 30px;
+			text-align: center;
+			padding-top: 100px;
+		}
+
+		#btnStart
+		{
+			font-size: 25px;
+			background-color: magenta;
+			color:white;
+			border: 8px solid pink;
+			border-radius: 10px;
+			padding: 5px;
+			cursor: pointer;
+			margin-left: auto;
+			margin-right: auto;
+		}
+
+		#lives
+		{
+			margin-top:10px;
+		}
+
+		#points
+		{
+			margin-top:10px;
+		}
